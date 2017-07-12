@@ -1,15 +1,47 @@
 # Key-Algorithms
 
 
-## Algorithms 4th editioné‡ç‚¹ç®—æ³•ï¼Œå¯¹äºåˆ·é¢˜ï¼Œå¤ä¹ ï¼Œå‡†å¤‡é¢è¯•éƒ½æœ‰å¾ˆå¤§å¸®åŠ©ã€‚
+## Algorithms 4th editionÖØµãËã·¨£¬¶ÔÓÚË¢Ìâ£¬¸´Ï°£¬×¼±¸ÃæÊÔ¶¼ÓĞºÜ´ó°ïÖú¡£
+
+### µÚ1ÕÂ »ù´¡
+&emsp;[1.1 »ù´¡±à³ÌÄ£ĞÍ](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter1_1)<br />
+&emsp;[1.2 Êı¾İ³éÏó](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter1_2)<br />
+&emsp;[1.3 ±³°ü¡¢¶ÓÁĞºÍÕ»](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter1_3)<br />
+&emsp;[1.4 Ëã·¨·ÖÎö](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter1_4)<br />
+&emsp;[1.5 °¸ÀıÑĞ¾¿£ºunion-findËã·¨](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter1_5)<br />
+### µÚ2ÕÂ ÅÅĞò
+&emsp;[2.1 ³õ¼¶ÅÅĞòËã·¨](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter2_1)<br />
+&emsp;[2.2 ¹é²¢ÅÅĞò](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter2_2)<br />
+&emsp;[2.3 ¿ìËÙÅÅĞò](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter2_3)<br />
+&emsp;[2.4 ÓÅÏÈ¶ÓÁĞ](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter2_4)<br />
+&emsp;[2.5 Ó¦ÓÃ](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter2_5)<br />
+### µÚ3ÕÂ ²éÕÒ
+&emsp;[3.1 ·ûºÅ±í](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter3_1)<br />
+&emsp;[3.2 ¶ş²æ²éÕÒÊ÷](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter3_2)<br />
+&emsp;[3.3 Æ½ºâ²éÕÒÊ÷](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter3_3)<br />
+&emsp;[3.4 É¢ÁĞ±í](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter3_4)<br />
+&emsp;[3.5 Ó¦ÓÃ](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter3_5)<br />
+### µÚ4ÕÂ Í¼
+&emsp;[4.1 ÎŞÏòÍ¼](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter4_1)<br />
+&emsp;[4.2 ÓĞÏòÍ¼](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter4_2)<br />
+&emsp;[4.3 ×îĞ¡Éú³ÉÊ÷](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter4_3)<br />
+&emsp;[4.4 ×î¶ÌÂ·¾¶](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter4_4)<br />
+### µÚ5ÕÂ ×Ö·û´®
+&emsp;[5.1 ×Ö·û´®ÅÅĞò](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter5_1)<br />
+&emsp;[5.2 µ¥´Ê²éÕÒÊ÷](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter5_2)<br />
+&emsp;[5.3 ×Ó×Ö·û´®²éÕÒ](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter5_3)<br />
+&emsp;[5.4 ÕıÔò±í´ïÊ½](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter5_4)<br />
+&emsp;[5.5 Êı¾İÑ¹Ëõ](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter5_5)<br />
+### [µÚ6ÕÂ ±³¾°](https://github.com/jimmysuncpt/Algorithms/tree/master/src/com/jimmysun/algorithms/chapter6)<br />
+### [¹Ù·½´úÂë](https://github.com/jimmysuncpt/Algorithms/tree/master/src/edu/princeton/cs/algs4)<br />
 
 
-### ä¸¾ä¸€ä¸ªåˆ·é¢˜çš„å°ä¾‹å­ï¼š
+### ¾ÙÒ»¸öË¢ÌâµÄĞ¡Àı×Ó£º
 
-leetcode 104é¢˜ï¼Œæ‰¾åˆ°äºŒå‰æ ‘æœ€å¤§æ·±åº¦ï¼Œå¦‚æœè®°å¾— 3.3binary search treeé‡Œé¢å…³äºheightçš„codeï¼Œå°±å¯ä»¥ç¬é—´å†™å‡ºbug freeçš„solutionäº†ã€‚
+leetcode 104Ìâ£¬ÕÒµ½¶ş²æÊ÷×î´óÉî¶È£¬Èç¹û¼ÇµÃ 3.3binary search treeÀïÃæ¹ØÓÚheightµÄcode£¬¾Í¿ÉÒÔË²¼äĞ´³öbug freeµÄsolutionÁË¡£
 
 
-ä»¥ä¸‹æ˜¯3.3binary search treeé‡Œé¢å…³äºheightçš„codeï¼š
+ÒÔÏÂÊÇ3.3binary search treeÀïÃæ¹ØÓÚheightµÄcode£º
 
 ```java
 /**
@@ -27,7 +59,7 @@ private int height(Node x) {
 
 
 
-//ä»¥ä¸‹æ˜¯104é¢˜çš„è§£æ³•ï¼š
+//ÒÔÏÂÊÇ104ÌâµÄ½â·¨£º
 
 
 
