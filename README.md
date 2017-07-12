@@ -24,13 +24,13 @@ private int height(Node x) {
     if (x == null) return -1;
     return 1 + Math.max(height(x.left), height(x.right));
 }
-```java
 
 
-以下是104题的解法：
+
+//以下是104题的解法：
 
 
-```java
+
 /**
 * Definition for a binary tree node.
 * public class TreeNode {
@@ -46,4 +46,4 @@ public class Solution {
         return 1 + Math.max(root.left, root.right);
     }
 }
-```java
+
