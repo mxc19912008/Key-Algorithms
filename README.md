@@ -1,4 +1,4 @@
-# Key-Algorithms
+﻿# Key-Algorithms
 
 
 ## Algorithms 4th edition重点算法，对于刷题，复习，准备面试都有很大帮助。
@@ -39,7 +39,11 @@
 
 ### 举一个刷题的小例子：
 
-leetcode 104题，找到二叉树最大深度，如果记得 3.3binary search tree里面关于height的code，就可以瞬间写出bug free的solution了。
+
+&emsp;[leetcode 104题：找到二叉树最大深度](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)<br />
+
+
+如果记得 3.3binary search tree里面关于height的code，就可以瞬间写出bug free的solution了。
 
 
 以下是3.3binary search tree里面关于height的code：
