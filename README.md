@@ -39,8 +39,11 @@
 &emsp;[无注释版本](https://github.com/mxc19912008/Key-Algorithms/tree/master/Non-Comment%E7%89%88%E6%9C%AC)<br />
 
 #### 无注释版本 可以用来复习。复习时，自己主动给关键部分写注释，再对照原来的注释，看看是否真正理解。
-#### 去掉注释使用的工具：
-        &emsp;[无注释版本](https://github.com/mxc19912008/Remove-comment-Java-version)<br />
+
+
+#### 去掉注释使用的批量去注释小软件：
+
+&emsp; [批量去注释-Java](https://github.com/mxc19912008/Remove-comment-Java-version)<br />
 
 
 ### 举一个刷题的小例子：
