@@ -1,6 +1,6 @@
 ﻿# Key-Algorithms
 
-
+# 最新最全的版本请见：http://www.riversmall.com/t/xiao-he-wan-jing-hua-mu-lu/44/
 ## Algorithms 4th edition重点算法，对于刷题，复习，准备面试都有很大帮助。
 
 ### 第1章 基础 
