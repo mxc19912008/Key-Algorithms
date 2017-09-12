@@ -1,9 +1,11 @@
 # 目录
- * <a href="#1">普林斯顿算法第四版重点算法总结
- * <a href="#2">普林斯顿算法第四版全部视频
- * <a href="#3">普林斯顿算法第四版的所有ppt
+ * <a href="#1">普林斯顿算法第四版重点算法总结</a> 
+ * <a href="#2">普林斯顿算法第四版全部视频</a> 
+ * <a href="#3">普林斯顿算法第四版的所有ppt</a> 
+<a name="1"> </a> 
+
 # 普林斯顿算法第四版重点算法总结
-<a name="1">
+
 #### 请保存到收藏夹，当做你学习算法第四版的目录。
 
 ### 第1章 基础 
@@ -51,8 +53,9 @@
 
 *无注释版本 可以用来复习。复习时，自己主动给关键部分写注释，再对照原来的注释，看看是否真正理解。*
 
+<a name="2"> </a> 
 # 普林斯顿算法第四版全部视频。
-<a name="2">
+
 ## Part 1
 ## Chapter 1: Fundamentals
  * [1. Course Introduction](http://www.youtube.com/watch?v=8mYfZeHtdNc)
@@ -214,9 +217,8 @@
  * [5. NP Completeness](http://www.youtube.com/watch?v=kHc73BKuJd0)
  * [6. Coping with Intractability](http://www.youtube.com/watch?v=6qcaaDp4cdQ)
 
-
+<a name="3"></a> 
 # 普林斯顿算法第四版的所有ppt。
-<a name="3">
 ## Chapter 0: Intro
  * [00Intro.pdf](http://algs4.cs.princeton.edu/lectures/00Intro.pdf)
 
