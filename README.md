@@ -215,53 +215,53 @@
 #### 请保存到收藏夹，当做你学习算法第四版的目录。
 
 ## Chapter 0: Intro
-[00Intro.pdf](http://algs4.cs.princeton.edu/lectures/00Intro.pdf)
+ * [00Intro.pdf](http://algs4.cs.princeton.edu/lectures/00Intro.pdf)
 
 ##Chapter 1: Fundamentals
 
-[13StacksAndQueues.pdf](http://algs4.cs.princeton.edu/lectures/13StacksAndQueues.pdf)
-[14AnalysisOfAlgorithms.pdf](http://algs4.cs.princeton.edu/lectures/14AnalysisOfAlgorithms.pdf)
-[14DemoBinarySearch.pdf](http://algs4.cs.princeton.edu/lectures/14DemoBinarySearch.pdf)
-[15UnionFind.pdf](http://algs4.cs.princeton.edu/lectures/15UnionFind.pdf)
+ * [13StacksAndQueues.pdf](http://algs4.cs.princeton.edu/lectures/13StacksAndQueues.pdf)
+ * [14AnalysisOfAlgorithms.pdf](http://algs4.cs.princeton.edu/lectures/14AnalysisOfAlgorithms.pdf)
+ * [14DemoBinarySearch.pdf](http://algs4.cs.princeton.edu/lectures/14DemoBinarySearch.pdf)
+ * [15UnionFind.pdf](http://algs4.cs.princeton.edu/lectures/15UnionFind.pdf)
 
 ## Chapter 2: Sorting
-[21ElementarySorts.pdf](http://algs4.cs.princeton.edu/lectures/21ElementarySorts.pdf)
-[22Mergesort.pdf](http://algs4.cs.princeton.edu/lectures/22Mergesort.pdf)
-[23Quicksort.pdf](http://algs4.cs.princeton.edu/lectures/23Quicksort.pdf)
-[23DemoPartitioning.pdf](http://algs4.cs.princeton.edu/lectures/23DemoPartitioning.pdf)
-[23DemoQuickSelect.pdf](http://algs4.cs.princeton.edu/lectures/23DemoQuickSelect.pdf)
-[24PriorityQueues.pdf](http://algs4.cs.princeton.edu/lectures/24PriorityQueues.pdf)
+ * [21ElementarySorts.pdf](http://algs4.cs.princeton.edu/lectures/21ElementarySorts.pdf)
+ * [22Mergesort.pdf](http://algs4.cs.princeton.edu/lectures/22Mergesort.pdf)
+ * [23Quicksort.pdf](http://algs4.cs.princeton.edu/lectures/23Quicksort.pdf)
+ * [23DemoPartitioning.pdf](http://algs4.cs.princeton.edu/lectures/23DemoPartitioning.pdf)
+ * [23DemoQuickSelect.pdf](http://algs4.cs.princeton.edu/lectures/23DemoQuickSelect.pdf)
+ * [24PriorityQueues.pdf](http://algs4.cs.princeton.edu/lectures/24PriorityQueues.pdf)
  
 ## Chapter 3: Searching
-[31ElementarySymbolTables.pdf](http://algs4.cs.princeton.edu/lectures/31ElementarySymbolTables.pdf)
-[32BinarySearchTrees.pdf](http://algs4.cs.princeton.edu/lectures/32BinarySearchTrees.pdf)
-[33BalancedSearchTrees.pdf](http://algs4.cs.princeton.edu/lectures/33BalancedSearchTrees.pdf)
-[99GeometricSearch.pdf](http://algs4.cs.princeton.edu/lectures/99GeometricSearch.pdf)
-[34HashTables.pdf](http://algs4.cs.princeton.edu/lectures/34HashTables.pdf)
-[35SearchingApplications.pdf](http://algs4.cs.princeton.edu/lectures/35SearchingApplications.pdf)
+ * [31ElementarySymbolTables.pdf](http://algs4.cs.princeton.edu/lectures/31ElementarySymbolTables.pdf)
+ * [32BinarySearchTrees.pdf](http://algs4.cs.princeton.edu/lectures/32BinarySearchTrees.pdf)
+ * [33BalancedSearchTrees.pdf](http://algs4.cs.princeton.edu/lectures/33BalancedSearchTrees.pdf)
+ * [99GeometricSearch.pdf](http://algs4.cs.princeton.edu/lectures/99GeometricSearch.pdf)
+ * [34HashTables.pdf](http://algs4.cs.princeton.edu/lectures/34HashTables.pdf)
+ * [35SearchingApplications.pdf](http://algs4.cs.princeton.edu/lectures/35SearchingApplications.pdf)
 
 ## Chapter 4: Graphs 
-[41UndirectedGraphs.pdf](http://algs4.cs.princeton.edu/lectures/41UndirectedGraphs.pdf)
-[42DirectedGraphs.pdf](http://algs4.cs.princeton.edu/lectures/42DirectedGraphs.pdf)
-[43MinimumSpanningTrees.pdf](http://algs4.cs.princeton.edu/lectures/43MinimumSpanningTrees.pdf)
-[43DemoGreedy.pdf](http://algs4.cs.princeton.edu/lectures/43DemoGreedy.pdf)
-[43DemoKruskal.pdf](http://algs4.cs.princeton.edu/lectures/43DemoKruskal.pdf)
-[43DemoPrim.pdf](http://algs4.cs.princeton.edu/lectures/43DemoPrim.pdf)
-[44ShortestPaths.pdf](http://algs4.cs.princeton.edu/lectures/44ShortestPaths.pdf)
-[44DemoDijkstra.pdf](http://algs4.cs.princeton.edu/lectures/44DemoDijkstra.pdf)
-[44DemoAcyclicSP.pdf](http://algs4.cs.princeton.edu/lectures/44DemoAcyclicSP.pdf)
-[44DemoBellmanFord.pdf](http://algs4.cs.princeton.edu/lectures/44DemoBellmanFord.pdf)
+ * [41UndirectedGraphs.pdf](http://algs4.cs.princeton.edu/lectures/41UndirectedGraphs.pdf)
+ * [42DirectedGraphs.pdf](http://algs4.cs.princeton.edu/lectures/42DirectedGraphs.pdf)
+ * [43MinimumSpanningTrees.pdf](http://algs4.cs.princeton.edu/lectures/43MinimumSpanningTrees.pdf)
+ * [43DemoGreedy.pdf](http://algs4.cs.princeton.edu/lectures/43DemoGreedy.pdf)
+ * [43DemoKruskal.pdf](http://algs4.cs.princeton.edu/lectures/43DemoKruskal.pdf)
+ * [43DemoPrim.pdf](http://algs4.cs.princeton.edu/lectures/43DemoPrim.pdf)
+ * [44ShortestPaths.pdf](http://algs4.cs.princeton.edu/lectures/44ShortestPaths.pdf)
+ * [44DemoDijkstra.pdf](http://algs4.cs.princeton.edu/lectures/44DemoDijkstra.pdf)
+ * [44DemoAcyclicSP.pdf](http://algs4.cs.princeton.edu/lectures/44DemoAcyclicSP.pdf)
+ * [44DemoBellmanFord.pdf](http://algs4.cs.princeton.edu/lectures/44DemoBellmanFord.pdf)
  
 ## Chapter 5: Strings
-[51StringSorts.pdf](http://algs4.cs.princeton.edu/lectures/51StringSorts.pdf)
-[51DemoKeyIndexedCounting.pdf](http://algs4.cs.princeton.edu/lectures/51DemoKeyIndexedCounting.pdf)
-[52Tries.pdf](http://algs4.cs.princeton.edu/lectures/52Tries.pdf)
-[53SubstringSearch.pdf](http://algs4.cs.princeton.edu/lectures/53SubstringSearch.pdf)
-[54RegularExpressions.pdf](http://algs4.cs.princeton.edu/lectures/54RegularExpressions.pdf)
-[55DataCompression.pdf](http://algs4.cs.princeton.edu/lectures/55DataCompression.pdf)
+ * [51StringSorts.pdf](http://algs4.cs.princeton.edu/lectures/51StringSorts.pdf)
+ * [51DemoKeyIndexedCounting.pdf](http://algs4.cs.princeton.edu/lectures/51DemoKeyIndexedCounting.pdf)
+ * [52Tries.pdf](http://algs4.cs.princeton.edu/lectures/52Tries.pdf)
+ * [53SubstringSearch.pdf](http://algs4.cs.princeton.edu/lectures/53SubstringSearch.pdf)
+ * [54RegularExpressions.pdf](http://algs4.cs.princeton.edu/lectures/54RegularExpressions.pdf)
+ * [55DataCompression.pdf](http://algs4.cs.princeton.edu/lectures/55DataCompression.pdf)
  
 ## Chapter 6: Context
-[64MaxFlow.pdf](http://algs4.cs.princeton.edu/lectures/64MaxFlow.pdf)
-[99LinearProgramming.pdf](http://algs4.cs.princeton.edu/lectures/99LinearProgramming.pdf)
+ * [64MaxFlow.pdf](http://algs4.cs.princeton.edu/lectures/64MaxFlow.pdf)
+ * [99LinearProgramming.pdf](http://algs4.cs.princeton.edu/lectures/99LinearProgramming.pdf)
 
 
