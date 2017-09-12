@@ -1,4 +1,6 @@
-# 目录
+# 普林斯顿算法学习手册
+<a name="4"> </a>
+## 目录
  * <a href="#1">普林斯顿算法第四版重点算法总结</a> 
  * <a href="#2">普林斯顿算法第四版全部视频</a> 
  * <a href="#3">普林斯顿算法第四版的所有ppt</a> 
@@ -7,7 +9,7 @@
 # 普林斯顿算法第四版重点算法总结
 
 #### 请保存到收藏夹，当做你学习算法第四版的目录。
-
+<a href="#4">返回页首</a> 
 ### 第1章 基础 
 
 &emsp;[1.基础算法](https://github.com/mxc19912008/Key-Algorithms/tree/master/chapter%201%20%E5%9F%BA%E7%A1%80%20Fundamental)<br />
@@ -55,7 +57,7 @@
 
 <a name="2"> </a> 
 # 普林斯顿算法第四版全部视频。
-
+<a href="#4">返回页首</a> 
 ## Part 1
 ## Chapter 1: Fundamentals
  * [1. Course Introduction](http://www.youtube.com/watch?v=8mYfZeHtdNc)
@@ -135,7 +137,7 @@
 
 
 
-
+<a href="#4">返回页首</a> 
 # Part II
 ## Chapter 4: Graphs 
  * [2. Introduction to Graphs](http://www.youtube.com/watch?v=f_-qGQgzBLg)
@@ -219,6 +221,7 @@
 
 <a name="3"></a> 
 # 普林斯顿算法第四版的所有ppt。
+<a href="#4">返回页首</a> 
 ## Chapter 0: Intro
  * [00Intro.pdf](http://algs4.cs.princeton.edu/lectures/00Intro.pdf)
 
