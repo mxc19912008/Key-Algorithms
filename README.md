@@ -47,57 +47,6 @@
 *无注释版本 可以用来复习。复习时，自己主动给关键部分写注释，再对照原来的注释，看看是否真正理解。*
 
 
-#### 去掉注释使用的批量去注释小软件：
-
-&emsp; [批量去注释-Java](https://github.com/mxc19912008/Remove-comment-Java-version)<br />
-
-
-### 举一个刷题的小例子：
-
-
-&emsp;[leetcode 104题：找到二叉树最大深度](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)<br />
-
-
-如果记得 3.3binary search tree里面关于height的code，就可以瞬间写出bug free的solution了。
-
-
-以下是3.3binary search tree里面关于height的code：
-
-```java
-/**
-* Returns the height of the BST (for debugging).
-*
-* @return the height of the BST (a 1-node tree has height 0)
-*/
-public int height() {
-    return height(root);
-}
-private int height(Node x) {
-    if (x == null) return -1;
-    return 1 + Math.max(height(x.left), height(x.right));
-}
-
-
-
-//以下是104题的解法：
-
-
-
-/**
-* Definition for a binary tree node.
-* public class TreeNode {
-*     int val;
-*     TreeNode left;
-*     TreeNode right;
-*     TreeNode(int x) { val = x; }
-* }
-*/
-public class Solution {
-    public int maxDepth(TreeNode root) {
-        if (root == null) return 0;
-        return 1 + Math.max(root.left, root.right);
-    }
-}
 
 #### 由于算法第四版Part 2 Coursera的课很久都不开，ShellTrain整理了Part2的所有视频，顺带Part1全部都整理出来了。见以下的链接。
 #### 请保存到收藏夹，当做你学习算法第四版的目录
